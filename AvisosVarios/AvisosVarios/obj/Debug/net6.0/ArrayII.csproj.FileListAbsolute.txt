@@ -1,0 +1,15 @@
+C:\Users\germa\source\repos\ArrayII\Array\obj\Debug\net6.0\ArrayII.csproj.AssemblyReference.cache
+C:\Users\germa\source\repos\ArrayII\Array\obj\Debug\net6.0\ArrayII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\germa\source\repos\ArrayII\Array\obj\Debug\net6.0\ArrayII.AssemblyInfoInputs.cache
+C:\Users\germa\source\repos\ArrayII\Array\obj\Debug\net6.0\ArrayII.AssemblyInfo.cs
+C:\Users\germa\source\repos\ArrayII\Array\obj\Debug\net6.0\ArrayII.csproj.CoreCompileInputs.cache
+C:\Users\germa\source\repos\ArrayII\Array\bin\Debug\net6.0\ArrayII.exe
+C:\Users\germa\source\repos\ArrayII\Array\bin\Debug\net6.0\ArrayII.deps.json
+C:\Users\germa\source\repos\ArrayII\Array\bin\Debug\net6.0\ArrayII.runtimeconfig.json
+C:\Users\germa\source\repos\ArrayII\Array\bin\Debug\net6.0\ArrayII.dll
+C:\Users\germa\source\repos\ArrayII\Array\bin\Debug\net6.0\ArrayII.pdb
+C:\Users\germa\source\repos\ArrayII\Array\obj\Debug\net6.0\ArrayII.dll
+C:\Users\germa\source\repos\ArrayII\Array\obj\Debug\net6.0\refint\ArrayII.dll
+C:\Users\germa\source\repos\ArrayII\Array\obj\Debug\net6.0\ArrayII.pdb
+C:\Users\germa\source\repos\ArrayII\Array\obj\Debug\net6.0\ArrayII.genruntimeconfig.cache
+C:\Users\germa\source\repos\ArrayII\Array\obj\Debug\net6.0\ref\ArrayII.dll

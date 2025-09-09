@@ -1,0 +1,15 @@
+C:\Users\germa\source\repos\AvisosVarios\AvisosVarios\obj\Debug\net6.0\AvisosVarios.csproj.AssemblyReference.cache
+C:\Users\germa\source\repos\AvisosVarios\AvisosVarios\obj\Debug\net6.0\AvisosVarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\germa\source\repos\AvisosVarios\AvisosVarios\obj\Debug\net6.0\AvisosVarios.AssemblyInfoInputs.cache
+C:\Users\germa\source\repos\AvisosVarios\AvisosVarios\obj\Debug\net6.0\AvisosVarios.AssemblyInfo.cs
+C:\Users\germa\source\repos\AvisosVarios\AvisosVarios\obj\Debug\net6.0\AvisosVarios.csproj.CoreCompileInputs.cache
+C:\Users\germa\source\repos\AvisosVarios\AvisosVarios\bin\Debug\net6.0\AvisosVarios.exe
+C:\Users\germa\source\repos\AvisosVarios\AvisosVarios\bin\Debug\net6.0\AvisosVarios.deps.json
+C:\Users\germa\source\repos\AvisosVarios\AvisosVarios\bin\Debug\net6.0\AvisosVarios.runtimeconfig.json
+C:\Users\germa\source\repos\AvisosVarios\AvisosVarios\bin\Debug\net6.0\AvisosVarios.dll
+C:\Users\germa\source\repos\AvisosVarios\AvisosVarios\bin\Debug\net6.0\AvisosVarios.pdb
+C:\Users\germa\source\repos\AvisosVarios\AvisosVarios\obj\Debug\net6.0\AvisosVarios.dll
+C:\Users\germa\source\repos\AvisosVarios\AvisosVarios\obj\Debug\net6.0\refint\AvisosVarios.dll
+C:\Users\germa\source\repos\AvisosVarios\AvisosVarios\obj\Debug\net6.0\AvisosVarios.pdb
+C:\Users\germa\source\repos\AvisosVarios\AvisosVarios\obj\Debug\net6.0\AvisosVarios.genruntimeconfig.cache
+C:\Users\germa\source\repos\AvisosVarios\AvisosVarios\obj\Debug\net6.0\ref\AvisosVarios.dll

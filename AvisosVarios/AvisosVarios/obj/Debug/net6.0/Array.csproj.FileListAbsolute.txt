@@ -1,0 +1,15 @@
+C:\Users\germa\source\repos\Array\Array\bin\Debug\net6.0\Array.exe
+C:\Users\germa\source\repos\Array\Array\bin\Debug\net6.0\Array.deps.json
+C:\Users\germa\source\repos\Array\Array\bin\Debug\net6.0\Array.runtimeconfig.json
+C:\Users\germa\source\repos\Array\Array\bin\Debug\net6.0\Array.dll
+C:\Users\germa\source\repos\Array\Array\bin\Debug\net6.0\Array.pdb
+C:\Users\germa\source\repos\Array\Array\obj\Debug\net6.0\Array.csproj.AssemblyReference.cache
+C:\Users\germa\source\repos\Array\Array\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\germa\source\repos\Array\Array\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+C:\Users\germa\source\repos\Array\Array\obj\Debug\net6.0\Array.AssemblyInfo.cs
+C:\Users\germa\source\repos\Array\Array\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\germa\source\repos\Array\Array\obj\Debug\net6.0\Array.dll
+C:\Users\germa\source\repos\Array\Array\obj\Debug\net6.0\refint\Array.dll
+C:\Users\germa\source\repos\Array\Array\obj\Debug\net6.0\Array.pdb
+C:\Users\germa\source\repos\Array\Array\obj\Debug\net6.0\Array.genruntimeconfig.cache
+C:\Users\germa\source\repos\Array\Array\obj\Debug\net6.0\ref\Array.dll

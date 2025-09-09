@@ -1,0 +1,8 @@
+C:\Users\germa\source\repos\CancelarToken\CancelarToken\bin\Debug\CancelarToken.exe.config
+C:\Users\germa\source\repos\CancelarToken\CancelarToken\bin\Debug\CancelarToken.exe
+C:\Users\germa\source\repos\CancelarToken\CancelarToken\bin\Debug\CancelarToken.pdb
+C:\Users\germa\source\repos\CancelarToken\CancelarToken\obj\Debug\CancelarToken.csproj.AssemblyReference.cache
+C:\Users\germa\source\repos\CancelarToken\CancelarToken\obj\Debug\CancelarToken.csproj.SuggestedBindingRedirects.cache
+C:\Users\germa\source\repos\CancelarToken\CancelarToken\obj\Debug\CancelarToken.csproj.CoreCompileInputs.cache
+C:\Users\germa\source\repos\CancelarToken\CancelarToken\obj\Debug\CancelarToken.exe
+C:\Users\germa\source\repos\CancelarToken\CancelarToken\obj\Debug\CancelarToken.pdb
